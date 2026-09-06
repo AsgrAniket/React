@@ -4,7 +4,7 @@ import './CheckoutPage.css';
 export function CheckoutPage() {
     return (
         <>
-            <title>CheckoutPage</title>
+            <title>Checkout</title>
 
             <div className="checkout-header">
                 <div className="header-content">
