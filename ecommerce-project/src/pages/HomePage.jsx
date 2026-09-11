@@ -8,6 +8,7 @@ export function HomePage() {
     .then((response) => {
         console.log(response.data); 
     });
+    
     return (
         <>
             <title>Ecommerce Project</title>
